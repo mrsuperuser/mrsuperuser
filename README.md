@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopal</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 <p>
-  Introducing our talented frontend/backend developer hailing from India. With a deep passion for coding and a strong background in both frontend and backend development, our developer brings a wealth of expertise and creativity to every project.
+    Introducing our talented frontend/backend developer hailing from India. With a deep passion for coding and a strong background in both frontend and backend development, our developer brings a wealth of expertise and creativity to every project.
 
 Driven by a genuine love for crafting user-friendly interfaces and efficient server-side functionalities, they strive to deliver exceptional solutions that exceed client expectations. With a keen eye for detail and a commitment to staying updated with the latest industry trends, our developer ensures that their work is at the forefront of innovation.
 
@@ -18,7 +18,7 @@ Passionate, dedicated, and always up for a coding challenge, our developer from 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mr_super_user_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_super_user_007" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_super_user_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_super_user_007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
